@@ -1,0 +1,7 @@
+realtimestt
+numpy
+requests
+pyttsx3
+onnxruntime
+huggingface-hub
+transformers
