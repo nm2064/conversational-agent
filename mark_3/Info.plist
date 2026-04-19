@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>local.mark3.sttbinary</string>
+    <key>CFBundleName</key>
+    <string>stt_binary</string>
+    <key>CFBundleDisplayName</key>
+    <string>Mark3 STT</string>
+    <key>CFBundleExecutable</key>
+    <string>stt_binary</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>This tool transcribes your spoken input for the car repair booking assistant.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This tool reads audio to transcribe your voice for the booking assistant.</string>
+</dict>
+</plist>
