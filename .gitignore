@@ -1,0 +1,24 @@
+# Python files created while running the project.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Files created by macOS.
+.DS_Store
+._*
+__MACOSX/
+
+# Built Apple speech helpers.
+*.app/
+mark_2/request_speech_auth
+mark_2/stt_service
+
+# Local settings and recordings.
+.env
+.env.*
+*.log
+*.wav
+*.aiff
+*.sock

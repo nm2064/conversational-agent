@@ -1,0 +1,8 @@
+numpy
+sounddevice
+torch
+requests
+pyttsx3
+transformers
+onnxruntime
+huggingface-hub
