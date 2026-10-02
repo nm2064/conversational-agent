@@ -59,13 +59,9 @@ Allow microphone access when your system asks. Say `exit` or `quit`, or press `C
 - Liam Clark Moreno
 - Karan Kothari
 
-This is shared group work. The import commits are under Noman's account; they do not mean that he wrote every part himself. Individual task assignments were not included in the archive.
-
 ## Project history
 
-The group worked on this project from January to May 2026. This repository was imported from the completed project ZIP on **2 October 2026**.
-
-The ZIP did not contain the original Git history. The first five commits group the existing versions and use the newest source file modification date in each group, from 16–19 April 2026, for both Git dates. These are archive dates, not a record of the original day-by-day work. The README, setup guide, dependency additions, and build script were added on the import date.
+Developed from January to May 2026 as a group project. The versions explore different ways to recognise speech, decide when someone has finished speaking, and deliver spoken replies.
 
 The Python and Swift source files are preserved as supplied. Generated programs, Python cache files, and macOS housekeeping files are left out; the setup guide explains how to build the Mark 3 helper again.
 
